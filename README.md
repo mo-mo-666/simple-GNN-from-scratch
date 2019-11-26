@@ -1,3 +1,7 @@
-# simple-GNN-from-scratch
+# Simple GNN from Scratch
 
 Simple GNN using numpy.
+
+## Requirements
+
+- Pipenv
